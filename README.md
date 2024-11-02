@@ -7,5 +7,5 @@ Hangman game in three different programming languages (C#, JavaScript, Python), 
       - Single-Player Mode: The computer randomly selects a word from a predefined list for the player to guess.
       - Two-Player Mode: One player inputs a word that the second player must guess.
       - Interactive Gameplay: Players can input their guesses and receive immediate feedback.
-      - (OPTIONAL) Visual Representation: The game includes a classic hangman drawing that updates with each incorrect guess.
+      - (TENTATIVE) Visual Representation: The game includes a classic hangman drawing that updates with each incorrect guess.
       - Word Display: The current state of the word is displayed with unguessed letters represented by underscores.
