@@ -1,8 +1,7 @@
 # Project-Hangman
 Hangman game in three different programming languages (C#, JavaScript, Python), each as a separate implementation.
 - About the game:
-  - This is a classic word-guessing game where players try to guess a hidden word by suggesting letters within a certain number of guesses.
-  - The game can be played in two modes: a single-player mode where the computer selects a word from a predefined list, and a two-player mode where one player inputs a word for the other player to guess.
+  - This is a classic word-guessing game where players try to guess a hidden word by suggesting letters within a certain number of guesses. The game can be played in two modes: a single-player mode where the computer selects a word from a predefined list, and a two-player mode where one player inputs a word for the other player to guess.
 
   - Features:
       - Single-Player Mode: The computer randomly selects a word from a predefined list for the player to guess.
