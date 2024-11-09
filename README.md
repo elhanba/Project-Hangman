@@ -16,9 +16,10 @@ Whether playing alone or with a friend, Hangman provides a simple yet engaging e
 
 # Technologies Used
 This project demonstrates cross-language implementation and showcases different approaches to programming logic:
-  -  C#: Object-oriented programming with robust handling of game state and user input.
-  -  JavaScript: Dynamic, browser-based interaction for a more responsive user experience.
-  -  Python: A simple, straightforward implementation focusing on quick prototyping and ease of understanding.
+  -  C#: Handles game state and user input with an object-oriented approach.
+  -  JavaScript: Creates responsive, interactive browser features.
+  -  Python: Used for quick, easy-to-understand prototyping.
+
 Each version includes a unique approach to the same game mechanics, making it an excellent resource for comparing programming techniques and design decisions across languages.
 
 
